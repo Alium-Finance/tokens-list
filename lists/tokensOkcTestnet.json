@@ -1,0 +1,49 @@
+{
+  "name": "aliumswap",
+  "timestamp": "2021-03-01T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/Alium-Finance/tokens-list/main/common/images/wbnb.png",
+  "keywords": ["alium", "default"],
+  "tokens": [
+    {
+      "symbol": "ALM",
+      "decimals": 18,
+      "name": "Alium Swap",
+      "chainId": 65,
+      "address": "0x4D3D711853a4A25AE1D17347a97253A66Ed63D18"
+    },
+    {
+      "symbol": "WOKT",
+      "decimals": 18,
+      "name": "Wrapped OKT",
+      "chainId": 65,
+      "address": "0x3379b4a4Fc0E1614c0687C9F613024E83FE0E8b5"
+    },
+    {
+      "symbol": "TUSDC",
+      "decimals": 6,
+      "name": "TUSDC",
+      "chainId": 65,
+      "address": "0x6b2b3f5a58c4c258f63b948566581787e45d651e"
+    },
+    {
+      "symbol": "TETHK",
+      "decimals": 18,
+      "name": "TETHK",
+      "chainId": 65,
+      "address": "0x5787a64f6a0b46c75105b9cc58ab6da187466e4e"
+    },
+    {
+      "symbol": "TBTCK",
+      "decimals": 8,
+      "name": "TBTCK",
+      "chainId": 65,
+      "address": "0x2c50ceecaf53c283384a6ca5b9de6c52eb64face"
+    }
+  ]
+}
