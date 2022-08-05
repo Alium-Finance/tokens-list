@@ -11,6 +11,13 @@
   "keywords": ["alium", "default"],
   "tokens": [
     {
+      "address": "0x1581929770be3275a82068c1135b6dd59c5334ed",
+      "chainId": 1,
+      "name": " AliumToken on Ethereum (ALM)",
+      "symbol": "ALM",
+      "decimals": 18
+    },
+    {
       "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
       "chainId": 1,
       "name": "SushiSwap",
