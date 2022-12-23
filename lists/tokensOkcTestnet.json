@@ -8,15 +8,11 @@
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/Alium-Finance/tokens-list/main/common/images/wbnb.png",
-  "keywords": ["alium", "default"],
+  "keywords": [
+    "alium",
+    "default"
+  ],
   "tokens": [
-    {
-      "symbol": "ALM",
-      "decimals": 18,
-      "name": "Alium Swap",
-      "chainId": 65,
-      "address": "0x4D3D711853a4A25AE1D17347a97253A66Ed63D18"
-    },
     {
       "symbol": "WOKT",
       "decimals": 18,

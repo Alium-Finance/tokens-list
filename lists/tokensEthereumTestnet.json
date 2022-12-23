@@ -8,16 +8,11 @@
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/Alium-Finance/tokens-list/main/common/images/wbnb.png",
-  "keywords": ["alium", "default"],
+  "keywords": [
+    "alium",
+    "default"
+  ],
   "tokens": [
-    {
-      "address": "0x6cFe00906a2074F41788b8Dc4fa66a4c13C2A3a3",
-      "chainId": 4,
-      "name": "Alium Token",
-      "symbol": "ALM",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x7C38870e93A1f959cB6c533eB10bBc3e438AaC11/logo.png"
-    },
     {
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "chainId": 4,
